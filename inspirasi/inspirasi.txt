@@ -1,4 +1,0 @@
-1. https://www.kaggle.com/code/snopoff/riemannian-low-rank-matrix-completion
-2. https://www.kaggle.com/code/yashaswiniv/starter-netflix-prize-data-900bd601-6
-3. https://www.kaggle.com/code/utsav15/netflix-recommendation
-
